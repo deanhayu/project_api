@@ -1,0 +1,1 @@
+web: gunicorn publikasi.wsgi --log-file -
